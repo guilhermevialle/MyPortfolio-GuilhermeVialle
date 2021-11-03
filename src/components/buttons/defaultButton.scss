@@ -1,0 +1,21 @@
+$cor: #4a00c3;
+
+.defbutton {
+    all: unset;
+    width: 100px;
+    height: 45px;
+
+    background-color: $cor;
+    color: #e4e4e4;
+    text-align: center;
+
+    font-weight: 300;
+    cursor: pointer;
+    transition: all 0.1s ease-in;
+
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+    &:hover {
+        background-color: #4a0ab1;
+    }
+}

@@ -1,0 +1,16 @@
+.toggler {
+    position: absolute;
+    top: 7%;
+    right: 30px;
+
+    z-index: 2;
+    position: fixed;
+    cursor: pointer;
+
+    display: none;
+
+    img {
+        width: 32px;
+        height: 32px;
+    }
+}

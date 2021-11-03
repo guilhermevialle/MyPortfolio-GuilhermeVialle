@@ -1,0 +1,17 @@
+.bubles {
+    position: absolute;
+    width: random($limit: 100);
+    height: random($limit: 100);
+
+    border-radius: 50%;
+    bottom: random($limit: 1000);
+    right: random($limit: 1000);
+
+    top: random($limit: 1000);
+    left: random($limit: 1000);
+
+    background-color: blue;
+}
+
+@keyframes move {
+}
