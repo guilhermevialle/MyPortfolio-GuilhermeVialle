@@ -21,6 +21,11 @@ export default () => {
                 gif: "https://github.com/guilhermevialle/Clone-Youtube/blob/main/Gif/gif.gif?raw=true",
                 img: "https://github.com/guilhermevialle/Clone-Youtube/blob/main/Screenshot/capture.png?raw=true",
             },
+            {
+                name: "Reminer App (based on iOS system)",
+                gif: "https://github.com/guilhermevialle/Todo-ReactJS/blob/main/captures/rec.gif?raw=true",
+                img: "https://9to5mac.com/wp-content/uploads/sites/6/2019/10/how-to-change-colors-icons-reminders-lists-iphone-ipad-walkthrough-4.jpg?quality=82&strip=all",
+            },
         ],
         personal: [
             {
